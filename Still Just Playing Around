@@ -1,0 +1,41 @@
+>>> best_movie_ever = "Monty Python and the Holy Grail"
+>>> print best_movie_ever
+Monty Python and the Holy Grail
+>>> print len(best_movie_ever)
+31
+>>> 31-23
+8
+>>> print "why on earth did I subtract 23?"
+why on earth did I subtract 23?
+>>> print "I'm not sure, I though it was a good number! Don't question me, I'm tired."
+I'm not sure, I though it was a good number! Don't question me, I'm tired.
+>>> print "I'm pretty sure I've started talking to myself in Python"
+I'm pretty sure I've started talking to myself in Python
+>>> print "oh my"
+oh my
+>>> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
