@@ -1,0 +1,41 @@
+Last login: Fri Aug 16 22:23:50 on ttys001
+Simons-MacBook-Pro:~ simonsharp$ python
+Python 2.7.2 (default, Jun 20 2012, 16:23:33) 
+[GCC 4.2.1 Compatible Apple Clang 4.0 (tags/Apple/clang-418.0.60)] on darwin
+Type "help", "copyright", "credits" or "license" for more information.
+>>> print "2+2"
+2+2
+>>> 2+2
+4
+>>> 2**2
+4
+>>> 2*2
+4
+>>> print "ZOMG SO MANY 4s"
+ZOMG SO MANY 4s
+>>> 42 = "meaning of life"
+  File "<stdin>", line 1
+SyntaxError: can't assign to literal
+>>> 42 = "Meaning of life"
+  File "<stdin>", line 1
+SyntaxError: can't assign to literal
+>>> meaning_of_life = "42"
+>>> print meaning_of_life
+42
+>>> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
